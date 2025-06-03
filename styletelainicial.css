@@ -1,0 +1,23 @@
+.titulo{
+    text-align: center;
+    background-color:#3b63c0ff;
+    height: 30px;
+}
+.escolher{
+    text-align: center;
+    height: 480px;
+    background-color:#3b63c0ff;
+    align-items: center;
+    padding: 1cm
+}
+#facil{
+    font-size: 20px;
+}
+#dificil{
+    font-size: 20px;
+}
+.sobre{    
+    padding:15px}
+button:hover{
+    background-color:rgb(30, 174, 231)
+}

@@ -1,0 +1,24 @@
+#questao{
+    text-align: center;
+    font-size: 50px
+}
+.pergunta{
+    text-align: center;
+    padding: 1cm;
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+}
+.div1{
+    background-color:#3b63c0ff;
+    align-items: center;
+    text-align: center;
+    margin: 50px;
+}
+button{
+    height: 70px;
+    width: 300px;
+    margin: 20px;
+}
+.botao{
+    padding: 2px;
+}
